@@ -10,7 +10,7 @@ A wireless desk system built with two BBC micro:bits to promote healthier work h
 
 ## Tech Stack
 - MicroPython
-- 2.4GHz radio communication
+- 2.4GHz radio communication 
 - I2C OLED display
 - Ultrasonic sensor
 - PWM for RGB LED
